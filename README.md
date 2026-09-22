@@ -26,9 +26,9 @@ The interface uses a minimal black-and-white visual style combined with high-qua
 ## 🎨 Design Preview
 
 <p align="center">
-  <img src="01-onboarding.png" width="220"/>
-  <img src="02-home.png" width="220"/>
-  <img src="03-products.png" width="220"/>
+  <img src="Frame-1.png" width="220"/>
+  <img src="Frame-2.png" width="220"/>
+  <img src="Frame-5.png" width="220"/>
 </p>
 
 ---
